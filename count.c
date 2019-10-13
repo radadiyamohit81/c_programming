@@ -1,3 +1,4 @@
+/* Write a program to count number of item repeated on the list.*/
 # include <stdio.h>
 int first(int arr[], int low, int high, int x, int n)
 {
