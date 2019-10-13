@@ -1,3 +1,4 @@
+/* Write a program to sort number of list using Bubble sort Technique.*/
 #include<stdio.h>
 void main()
 {
